@@ -5,6 +5,10 @@ heha
 
 ![Anurag's GitHub stats](https://github-readme-stats-three-fawn-74.vercel.app/api?username=Kiamara&commits_year=2025&icons=true&theme=dark&hide_border=true&hide=contribs,stars)
 
+#langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiamara)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Kiamara/Kiamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
