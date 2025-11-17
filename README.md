@@ -1,7 +1,7 @@
 #Github stats
 
 
-![Anurag's GitHub stats](https://github-readme-stats-three-fawn-74.vercel.app/api?username=Kiamara&commits_year=2025&icons=true&theme=dark&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats-three-fawn-74.vercel.app/api?username=Kiamara&commits_year=2025&icons=true&theme=dark&hide_border=true&hide=contribs)
 
 <!--
 **Kiamara/Kiamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
