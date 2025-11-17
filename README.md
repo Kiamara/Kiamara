@@ -7,7 +7,7 @@ heha
 
 #langs
 
-[![Top Langs](https:/github-readme-stats-three-fawn-74.vercel.app?username=Kiamara)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https:/github-readme-stats-three-fawn-74.vercel.app/api/top-langs?username=Kiamara)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Kiamara/Kiamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
