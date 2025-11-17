@@ -39,7 +39,7 @@
 <br>
 ${\color{red}{R}}$ ${\color{lightblue}{I\ can't}}$ <br>
 ${\color{red}{E}}$ ${\color{lightblue}{setup}}$ <br>
-${\color{red}{A}}$ ${\color{lightblue}{note\ environment}}$ <br>
+${\color{red}{A}}$ ${\color{lightblue}{node\ environment}}$ <br>
 ${\color{red}{C}}$ ${\color{lightblue}{help}}$ <br>
 ${\color{red}{T}}$
 </p>
