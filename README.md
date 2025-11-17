@@ -1,17 +1,9 @@
-heha
-
-#Github stats
-
-
-![Anurag's GitHub stats](https://github-readme-stats-three-fawn-74.vercel.app/api?username=Kiamara&commits_year=2025&icons=true&theme=dark&hide_border=true&hide=contribs,stars)
-
-
 <h2 align="left">heha</h2>
 
 ###
 
 <div align="left">
-  <img src="https://ithub-readme-stats-three-fawn-74.vercel.app/api?username=Kiamara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  ![Anurag's GitHub stats](https://github-readme-stats-three-fawn-74.vercel.app/api?username=Kiamara&commits_year=2025&icons=true&theme=dark&hide_border=true&hide=contribs,stars)
 </div>
 
 ###
