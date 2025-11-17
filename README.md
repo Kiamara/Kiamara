@@ -36,6 +36,7 @@
 <div align="left">
 
 <p align="left">
+<br>
 ${\color{red}{R}}$ ${\color{lightblue}{I\ can't}}$ <br>
 ${\color{red}{E}}$ ${\color{lightblue}{setup}}$ <br>
 ${\color{red}{A}}$ ${\color{lightblue}{note\ environment}}$ <br>
