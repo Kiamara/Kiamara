@@ -33,31 +33,20 @@
   </a>
 </div>
 <div class="vertical">
-  <br>
-  <div><span class="big">R</span> <span class="small">React line text</span></div>
-  <div><span class="big">E</span> <span class="small">Extra info</span></div>
-  <div><span class="big">A</span> <span class="small">Another note</span></div>
-  <div><span class="big">C</span> <span class="small">Comment</span></div>
-  <div><span class="big">T</span> <span class="small">Text</span></div>
+<div align="left">
+
+<p align="left">
+${\color{red}{R}}$ ${\color{lightblue}{I\ can't}}$ <br>
+${\color{red}{E}}$ ${\color{lightblue}{setup}}$ <br>
+${\color{red}{A}}$ ${\color{lightblue}{note\ environment}}$ <br>
+${\color{red}{C}}$ ${\color{lightblue}{help}}$ <br>
+${\color{red}{T}}$
+</p>
+
+
+
 </div>
 
-<style>
-.big {
-  font-size: 32px;
-  font-family: Arial, sans-serif;
-  font-weight: bold;
-}
-
-.small {
-  font-size: 14px;
-  font-family: Arial, sans-serif;
-  opacity: 0.8;
-}
-.vertical div {
-  line-height: 1.4em;
-  color: green
-}
-</style>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Kiamara/Kiamara/output/snake.svg" alt="Snake animation" />
