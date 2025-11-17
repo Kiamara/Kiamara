@@ -52,10 +52,3 @@ ${\color{red}{T}}$
 
 <img src="https://raw.githubusercontent.com/Kiamara/Kiamara/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kiamara.Kiamara&"  />
-</div>
-
-###
