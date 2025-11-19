@@ -38,11 +38,7 @@ ${\color{red}{A}}$ ${\color{lightblue}{node\ environment}}$ <br>
 ${\color{red}{C}}$ ${\color{lightblue}{help}}$ <br>
 ${\color{red}{T}}$
 </p>
-
-
-
 </div>
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Kiamara/Kiamara/output/snake.svg" alt="Snake animation" />
