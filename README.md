@@ -9,11 +9,8 @@
 ###
 
 <div align="left">
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
@@ -28,13 +25,13 @@
   </a>
 </div>
 <div class="vertical">
-<div align="left">
+<div>
 
 <p align="left">
 <br>
 ${\color{red}{R}}$ ${\color{lightblue}{I\ can't}}$ <br>
 ${\color{red}{E}}$ ${\color{lightblue}{setup}}$ <br>
-${\color{red}{A}}$ ${\color{lightblue}{node\ environment}}$ <br>
+${\color{red}{A}}$ ${\color{lightblue}{node\ env}}$ <br>
 ${\color{red}{C}}$ ${\color{lightblue}{help}}$ <br>
 ${\color{red}{T}}$
 </p>
